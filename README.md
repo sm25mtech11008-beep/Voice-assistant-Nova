@@ -15,7 +15,7 @@ fetch information from Wikipedia, and even generate AI responses offline using G
 
 ## Setup
 ```bash
-git clone https://github.com/<your-username>/nova-voice-assistant.git
+git clone https://github.com/<sm25mtech11008-beep>/nova-voice-assistant.git
 cd nova-voice-assistant
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
