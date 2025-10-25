@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+pywhatkit
+wikipedia
+torch
+transformers
+requests
+python-dotenv
